@@ -3,6 +3,7 @@
 Transform JSON strings into objects
 
 [![build status](https://travis-ci.org/voldern/json-transform-stream.svg)](https://travis-ci.org/voldern/json-transform-stream)
+[![modules status](https://david-dm.org/voldern/json-transform-stream.svg)](https://david-dm.org/voldern/json-transform-stream)
 
 # Example
 
