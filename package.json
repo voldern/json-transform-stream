@@ -20,5 +20,10 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:voldern/json-transform-stream.git"
-  }
+  },
+  "keywords": [
+    "json",
+    "transform",
+    "stream"
+  ]
 }
